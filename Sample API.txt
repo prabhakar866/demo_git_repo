@@ -1,0 +1,28 @@
+
+Sample API-
+
+
+https://app.smscloud.in/admin-portal?username=&dest=xxxxxxx&apikey=12345&signature=SENDERID&msgtype=TypeofMessage&msgtxt=message&entityid=XXXXXXXXXXX&templateid=XXXXXXXXXXXXXX
+
+
+
+?username=epicsmartcity
+&dest=9643474111&apikey=2UNJAX7Wp4b5aKtBlUpFIgXYc9r0cJeJ&signature=FINBDZ&msgtype=PM&msgtxt=hi%20(%23var%23)%20%20my%20name%20is%20(%23var%23)&entityid=1201162323949759988&templateid=8877665544554455664
+
+
+https://web.smscloud.in/api/pushsms?user=epicsmartcity&authkey=2UNJAX7Wp4b5aKtBlUpFIgXYc9r0cJeJ&sender=VIVAH1&mobile={PHONE}&text=%0A%7B%23var%23%7D%20is%20your%20OTP%20for%20registration%20with%20Vivaah%20Vibes%2C%20valid%20for%2010%20minutes.&templateid=1707172309906624554&rpt=1
+
+
+
+
+Domain name
+username
+destination
+apikey
+signature
+message type
+message text
+entity id
+Template id
+
+
